@@ -16,3 +16,13 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 *Update 10-11-2023:
 - Config player control and instanciation
 - Config cinemachine to target both player and mouse cursor (aim direction)
+
+*Update 11-11-2023:
+- Add door interactive function:
+  + Appear when player get close
+  + Open when player walk pass
+  + Close when player enter a room with enemies
+  + Re-open after player clear the room
+  + Fade out visual behind the door when closed
+  + Appear the visual behind the door when open
+
