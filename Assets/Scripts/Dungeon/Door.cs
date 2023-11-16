@@ -18,8 +18,8 @@ public class Door : MonoBehaviour
 
     [HideInInspector] public bool isBossRoomDoor = false;
     private BoxCollider2D doorTrigger;
-    private bool isOpen = false;
-    private bool previouslyOpened = false;
+    [HideInInspector] public bool isOpen = false;
+    [HideInInspector] public bool previouslyOpened = false;
     private Animator animator;
 
     private void Awake()

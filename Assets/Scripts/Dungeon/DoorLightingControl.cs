@@ -4,7 +4,7 @@ using UnityEngine;
 [DisallowMultipleComponent]
 public class DoorLightingControl : MonoBehaviour
 {
-    private bool isLit = false;
+    [HideInInspector] public bool isLit = false;
     private Door door;
 
     private void Awake()
