@@ -1,0 +1,7 @@
+{
+    "stryker-config":
+    {
+        "solution": "../../../2DDungeonRoguelike.sln",
+        "project": "../../../Project.csproj"
+    }
+}

@@ -1,0 +1,1 @@
+E:\Unity Project\2DDungeonRoguelike\Assets\Tests\PlayMode\obj\Debug\PlayMode.csproj.CopyComplete
