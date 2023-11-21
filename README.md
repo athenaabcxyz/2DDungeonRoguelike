@@ -33,3 +33,6 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 - Configure weapon and ammo system
 - Configure weapons and ammo types variant
 
+*Update 21-11-2023
+- Add sound fx to game
+- Add minimap to game
