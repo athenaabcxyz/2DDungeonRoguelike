@@ -36,3 +36,7 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 *Update 21-11-2023
 - Add sound fx to game
 - Add minimap to game
+
+*Update 22-11-2023
+- Setup enemies
+- Add vfx
