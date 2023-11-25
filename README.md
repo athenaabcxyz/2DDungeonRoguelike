@@ -44,3 +44,7 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 *Update 23-11-2023
 - Setup enemies navigation
 - Setup enemies movement
+
+*Update  25-11-2023
+- Implement enemies spawning
+- Implement enemies attack pattern
