@@ -48,3 +48,6 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 *Update  25-11-2023
 - Implement enemies spawning
 - Implement enemies attack pattern
+
+*Update 26-11-2023
+- Implement scoring system.
