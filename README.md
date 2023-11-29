@@ -54,3 +54,6 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 
 *Update 27-11-2023
 - Update gameplay (chest, reward,...)
+
+*Update  29-11-2023
+- Setup other game things (Music, setting, map,...)
