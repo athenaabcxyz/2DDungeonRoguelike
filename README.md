@@ -57,3 +57,6 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 
 *Update  29-11-2023
 - Setup other game things (Music, setting, map,...)
+
+*Update 30-11-2023
+- Setup main menu UI. Finishing game.
