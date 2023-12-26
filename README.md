@@ -1,9 +1,6 @@
 # 2DDungeonRoguelike
 This is the project for learning Unity Engine at beginner-intermediate levels.
 
-*Disclaimer:
-- I do not own anything of the assets used in this project. All credit belong to its owner, who allow these assets to be used publicly in non-commercial purposes.
-
 *Update 22-10-2023:
 - Setup editor tool for creating dungeon graph
 - Setup various room and dungeon templates
