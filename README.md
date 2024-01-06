@@ -60,3 +60,6 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 
 *Update 30-11-2023
 - Setup main menu UI. Finishing game.
+
+*Update 06-01-2023
+- Add CI/CD configuration
